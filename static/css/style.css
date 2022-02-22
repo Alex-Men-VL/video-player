@@ -7,3 +7,11 @@
 .player-button {
     margin-left: 10px;
 }
+.video-player {
+    width: 800px;
+    height: 600px;
+}
+.video-container {
+    width: 100%;
+    height: 100%;
+}
