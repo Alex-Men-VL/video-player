@@ -1,0 +1,9 @@
+.player-buttons-wrapper {
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    border-style: none;
+}
+.player-button {
+    margin-left: 10px;
+}
