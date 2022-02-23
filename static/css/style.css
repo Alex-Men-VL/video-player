@@ -3,6 +3,8 @@
     color: white;
     background-color: black;
     border-style: none;
+    display: flex;
+    flex-direction: row;
 }
 .player-button {
     margin-left: 10px;
