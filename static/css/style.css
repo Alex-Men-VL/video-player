@@ -13,6 +13,9 @@
     font-size: 15pt;
     line-height: 1.5;
 }
+.empty-block {
+    flex-grow: 10;
+}
 .video-player {
     width: 800px;
     height: 600px;
