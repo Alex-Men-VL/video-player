@@ -2,6 +2,8 @@
 
 Реализация видеоплеера и минимального набора кнопок.
 
+![Видео плеер](static/gif/video-player.gif)
+
 [Пример сайта с плеером](https://alex-men-vl.github.io/video-player/).
 
 ## Как запустить
