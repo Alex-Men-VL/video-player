@@ -6,13 +6,15 @@
 }
 .player-button {
     margin-left: 10px;
+    margin-bottom: 5px;
 }
 .video-player {
-    width: 800px;
+    width: 1000px;
     height: 600px;
-    box-shadow: 10px 28px 7px rgba(0, 0, 0, .2);
+    box-shadow: 10px 10px 7px rgba(0, 0, 0, .2);
+    display: flex;
+    flex-direction: column;
 }
 .video-container {
-    width: 100%;
-    height: 100%;
+    flex-grow: 1;
 }
